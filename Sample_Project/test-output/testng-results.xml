@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-08T17:52:53 EST" name="Default suite" finished-at="2022-01-08T17:53:47 EST" duration-ms="53244">
+    <groups>
+    </groups>
+    <test started-at="2022-01-08T17:52:53 EST" name="Default test" finished-at="2022-01-08T17:53:47 EST" duration-ms="53244">
+      <class name="com.mycompany.tests.CallTests">
+        <test-method is-config="true" signature="beforeSuit()[pri:0, instance:com.mycompany.tests.CallTests@9597028]" started-at="2022-01-08T17:52:53 EST" name="beforeSuit" finished-at="2022-01-08T17:52:53 EST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuit -->
+        <test-method is-config="true" signature="setExtent()[pri:0, instance:com.mycompany.tests.CallTests@9597028]" started-at="2022-01-08T17:52:53 EST" name="setExtent" finished-at="2022-01-08T17:52:53 EST" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.mycompany.tests.CallTests@9597028]" started-at="2022-01-08T17:52:54 EST" name="beforeMethod" finished-at="2022-01-08T17:52:58 EST" duration-ms="4108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginFunction()[pri:0, instance:com.mycompany.tests.CallTests@9597028]" started-at="2022-01-08T17:52:58 EST" name="loginFunction" finished-at="2022-01-08T17:53:15 EST" duration-ms="17763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFunction -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.mycompany.tests.CallTests@9597028]" started-at="2022-01-08T17:53:15 EST" name="tearDown" finished-at="2022-01-08T17:53:21 EST" duration-ms="5259" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginFunction status=SUCCESS method=CallTests.loginFunction()[pri:0, instance:com.mycompany.tests.CallTests@9597028] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.mycompany.tests.CallTests@9597028]" started-at="2022-01-08T17:53:21 EST" name="beforeMethod" finished-at="2022-01-08T17:53:24 EST" duration-ms="3005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginFunction1()[pri:0, instance:com.mycompany.tests.CallTests@9597028]" started-at="2022-01-08T17:53:24 EST" name="loginFunction1" finished-at="2022-01-08T17:53:41 EST" duration-ms="17446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFunction1 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.mycompany.tests.CallTests@9597028]" started-at="2022-01-08T17:53:41 EST" name="tearDown" finished-at="2022-01-08T17:53:46 EST" duration-ms="5255" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginFunction1 status=SUCCESS method=CallTests.loginFunction1()[pri:0, instance:com.mycompany.tests.CallTests@9597028] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.mycompany.tests.CallTests@9597028]" started-at="2022-01-08T17:53:46 EST" name="endReport" finished-at="2022-01-08T17:53:47 EST" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.mycompany.tests.CallTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

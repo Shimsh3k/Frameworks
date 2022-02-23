@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-08T17:49:54 EST" name="com.mycompany.tests.TestBase" finished-at="2022-01-08T17:49:55 EST" duration-ms="354">
+    <groups>
+    </groups>
+    <test started-at="2022-01-08T17:49:54 EST" name="Command line test" finished-at="2022-01-08T17:49:55 EST" duration-ms="354">
+      <class name="com.mycompany.tests.TestBase">
+        <test-method is-config="true" signature="beforeSuit()[pri:0, instance:com.mycompany.tests.TestBase@51931956]" started-at="2022-01-08T17:49:54 EST" name="beforeSuit" finished-at="2022-01-08T17:49:54 EST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuit -->
+        <test-method is-config="true" signature="setExtent()[pri:0, instance:com.mycompany.tests.TestBase@51931956]" started-at="2022-01-08T17:49:54 EST" name="setExtent" finished-at="2022-01-08T17:49:54 EST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.mycompany.tests.TestBase@51931956]" started-at="2022-01-08T17:49:54 EST" name="endReport" finished-at="2022-01-08T17:49:55 EST" duration-ms="208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.mycompany.tests.TestBase -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.mycompany.tests.TestBase -->
+</testng-results>
